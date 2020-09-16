@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
+  // This widget is the root of your hello app.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      // Application name
+      // Application name test cvomment 2
       title: 'Flutter Stateful Clicker Counter',
       theme: ThemeData(
         // Application theme data, you can set the colors for the application as
