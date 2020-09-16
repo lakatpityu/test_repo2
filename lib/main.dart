@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      // Application name
+      // Application name test cvomment 2
       title: 'Flutter Stateful Clicker Counter',
       theme: ThemeData(
         // Application theme data, you can set the colors for the application as
